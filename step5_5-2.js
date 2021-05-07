@@ -1,5 +1,5 @@
 var banana = { name: "バナナ", price: 200 };
 var orange = { name: "オレンジ", price: 100 };
-var price_sum = banana.price + orange.price
+var sum_price = banana.price + orange.price
 
-console.log(price_sum * 1.08);
+console.log(sum_price * 1.08);
